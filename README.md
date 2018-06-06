@@ -1,6 +1,6 @@
 # Numspy-React-app [![React](https://img.shields.io/badge/Made%20with-React-blue.svg)](https://reactjs.org/) 
 
-<img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
+<img src="https://github.com/bhattsameer/numspy/blob/master/logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
 React application Of NumSpy.
 
