@@ -6,7 +6,7 @@ React application Of NumSpy.
 
 # Installation
 ```
-1. Dowload this Repo
+1. Download this Repo
 2. Open Up terminal
 3. Go into project folder
 4. Type 'npm install'
