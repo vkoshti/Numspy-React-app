@@ -1,4 +1,4 @@
-# Numspy-React-app [![React](https://img.shields.io/badge/Made%20with-React-blue-1f425f.svg)](http://www.python.org/download/) 
+# Numspy-React-app [![React](https://img.shields.io/badge/Made%20with-React-blue.svg)](https://reactjs.org/) 
 
 <img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
