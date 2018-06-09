@@ -1,19 +1,4 @@
 import React from 'react';
-
-//class Numspy extends React.Component {
-//	render(){
-//		return (
-//			<div>
-//				{ this.props.name && <p> Name: {this.props.name} </p> }
-//				{ this.props.number && <p> Number: {this.props.number} </p> }
-//				{ this.props.state && <p> State: {this.props.state} </p> }
-//				{ this.props.provider && <p> Provider: {this.props.provider} </p> }
-//				{ this.props.error && <p> { this.props.error } </p>}
-//			</div>
-//		);
-//	}
-//};
-
 const Numspy = props => (
 	<div className = "numspy__info">
 		{ 
